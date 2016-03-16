@@ -1,0 +1,22 @@
+.banner {
+	position: relative;
+}
+
+li.defined_li:hover{
+	color: #d9d9d9;
+}
+li.defined_li:before {
+    font-family: "FontAwesome";
+    content: "\f04b";
+    color: #d9d9d9;
+    font-size: 7px;
+}
+
+li.defined_li:hover:before {
+    color: #01b7f2;
+}
+@media(max-width: : 1023px){
+	#menu{
+		
+	}
+}
